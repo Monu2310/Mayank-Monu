@@ -38,48 +38,6 @@ I'm a passionate **Master of Computer Applications** student at Thapar Institute
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🏗️ Featured Projects
-
-### 🌐 PeerConnect - Campus Social Network
-**Tech Stack:** ReactJS, NodeJS, TailwindCSS, Socket.io, MongoDB
-
-A comprehensive social platform designed for students to connect, communicate, and collaborate.
-
-- ⚡ **Real-time messaging** with Socket.io integration
-- 🎨 **Modern UI/UX** with Framer Motion animations and dark mode
-- 🔐 **Secure authentication** using JWT tokens
-- 🐳 **DevOps ready** with Docker and Jenkins CI/CD pipeline
-- 📱 **Responsive design** across all devices
-
-### ☁️ StoreIt - Cloud Storage Solution
-**Tech Stack:** NextJS, ReactJS, TailwindCSS
-
-A secure file storage platform offering users personal cloud storage capabilities.
-
-- 🔒 **Secure file management** with user authentication
-- ⚡ **Server-side rendering** with Next.js optimization
-- 📂 **File upload/download** functionality
-- 📱 **Mobile-responsive** interface
-
-### 🌤️ Weather Dashboard
-**Tech Stack:** JavaScript, HTML, CSS, Weather APIs
-
-Real-time weather application with global city search capabilities.
-
-- 🌍 **Global weather data** integration
-- 📊 **Comprehensive forecasts** including humidity, wind speed
-- 🔍 **Smart city search** functionality
-- 📱 **Cross-device compatibility**
-
-### 🎨 Interactive Landing Pages
-**Tech Stack:** ReactJS, TailwindCSS, Anime.js, Framer Motion
-
-Collection of high-converting, animated landing pages.
-
-- ✨ **Dynamic animations** with Anime.js and Framer Motion
-- 🚀 **Performance optimized** for fast loading
-- 📱 **Fully responsive** across all screen sizes
-- 💼 **Business-focused** design patterns
 
 ## 📈 GitHub Stats
 
