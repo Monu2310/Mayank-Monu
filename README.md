@@ -61,6 +61,6 @@ I'm a passionate **Master of Computer Applications** student at Thapar Institute
 
 ---
 
-💡 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+💡 **"Code is like humor. When you have to explain it, it's bad."** 
 
 ⭐ Feel free to explore my repositories and don't forget to star the ones you find interesting!
